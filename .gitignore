@@ -1,2 +1,4 @@
 .env
 .prefectignore
+__pycache__/
+.DS_Store
